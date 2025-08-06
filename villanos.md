@@ -3,3 +3,4 @@ _Por crear_
 * Dr. Doom
 * CopperMan
 * UltraMan 
+* Joker
