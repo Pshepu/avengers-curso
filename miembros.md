@@ -8,7 +8,7 @@
 * Hank Pym
 * Hawkeye
 * Hulk
-* Iron Man
+* IronMan
 * Luke Cage
 * QuickSilver
 * Scarlet Witch
